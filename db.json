@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,35 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Wolfgang",
+      "dogBreed": "Mutt",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +48,284 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 2
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 3
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 4
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 5
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 6
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 7
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 8
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 11
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 12
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 13
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 14
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 15
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 16
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 17
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 18
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 19
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 20
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 21
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 22
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 23
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 24
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 25
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 26
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 27
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 28
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 29
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 30
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 31
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 32
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 33
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 34
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 35
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 36
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 37
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 38
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 39
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 40
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 41
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 42
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 43
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 44
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 45
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 46
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 47
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 48
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 49
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 50
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 51
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 52
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 53
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 54
+    },
+    {
+      "name": "Matt",
+      "email": "Matt@email.com",
+      "id": 55
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
